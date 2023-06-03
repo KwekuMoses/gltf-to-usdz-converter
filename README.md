@@ -9,6 +9,7 @@ Using helper script that will output a usdz file with same name as input
 
 Via Npm or yarn
 
+
 ```
 npm start examples/exterior.glb
 yarn start examples/exterior.glb
@@ -51,3 +52,4 @@ cd examples
 ```
 ./build.sh
 ```
+# How To
